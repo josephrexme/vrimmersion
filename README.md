@@ -7,6 +7,7 @@ Here are some resources collected across the web
 - [Google Getting Started Guide](https://developers.google.com/web/fundamentals/vr/getting-started-with-webvr/)
 - [Mozilla Mixed Reality portal](https://mixedreality.mozilla.org/)
 - [Browser compatibilities for webVR - webvr.rocks](https://webvr.rocks/)
+- [WebVR emulator chrome extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil)
 ### Articles
 - [From webdev to VR dev](https://levels.io/from-web-dev-to-vr-dev/)
 ### Unity
